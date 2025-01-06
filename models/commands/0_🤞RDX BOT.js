@@ -67,7 +67,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁Toma-Brand꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Toma sir🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100095704801667&mibextid=ZbWKwL \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Tomabrand123😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁Alisha -Rohaab꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Alishi 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=61559716922704&mibextid=ZbWKwL \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Alisha123😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
@@ -238,7 +238,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   
     if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
     var msg = { 
-      body: `✨🌿❣︎${name}❣︎🌿✨,    ━━━━━━✦🌹✦━━━━━━ \n\n『\n   ${rand} 』\n\n  ╔═════❀❦︎❀═════╗           ★꧁𝐎𝐖𝐍𝐄𝐑꧂★ 𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿 ╚═════❀❦︎❀═════╝`
+      body: `✨🌿❣︎${name}❣︎🌿✨,    ━━━━━━✦🌹✦━━━━━━ \n\n『\n   ${rand} 』\n\n  ╔═════❀❦︎❀═════╗           ★꧁𝐎𝐖𝐍𝐄𝐑꧂★ 𝘼𝙇𝙄𝙎𝙃𝘼 𝙓 𝙍𝙊𝙃𝘼𝘼𝘽 ╚═════❀❦︎❀═════╝`
     }
 
     return api.sendMessage(msg, threadID, messageID);
@@ -246,4 +246,5 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
 }
 
-module.ex
+module.exports.run = function({ api, event, client, __GLOBAL }) { } 
+
