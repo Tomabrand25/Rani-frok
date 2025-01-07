@@ -46,9 +46,9 @@ BOT KA OWNER KI ID KA LINK YA RHA:
 👉 [Click Here](https://www.facebook.com/profile.php?id=100086033644262)  
 
 AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SAKTY:  
-📞 +923301068874  
+Telegram: @Toma123
 
-💖 THANKS FOR USING RDX BOT 💖  
+💖 𝑻𝑯𝑨𝑵𝑲𝑺 𝑭𝑶𝑹 𝑼𝑺𝑰𝑵𝑮 𝑻𝑶𝑴𝑨 𝑩𝑶𝑻💖  
 💎━━━━━🌟━━━━━💎
         `, 
         image: 'https://example.com/important-note-image.jpg' // Optional image for the note
