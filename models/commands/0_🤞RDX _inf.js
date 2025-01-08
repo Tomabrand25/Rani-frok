@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "RDX ZAIN",
+	credits: "Shaan",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -22,9 +22,9 @@ const time = process.uptime(),
 		minutes = Math.floor((time % (60 * 60)) / 60),
 		seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
-var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
+var juswa = moment.tz("Asia/Karachi").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imgur.com/Kj2CmiZ.jpegv" , "https://i.imgur.com/yiNOiVU.jpeg","https://i.postimg.cc/Sx7Yk5D0/ef81664323554dd5c8f17f0826e26e5e.jpg","https://i.postimg.cc/DwqYrqPQ/b123e2cb78bcb4fa5dcb53dfdeed2611.jpg"];
+["https://i.imgur.com/DgyAAkH.jpeg" , "https://i.imgur.com/DgyAAkH.jpeg"];
 var callback = () => api.sendMessage({body:`╭━☆━╮
 🇵🇰 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🇵🇰
 ╰━☆━╯
@@ -32,19 +32,19 @@ var callback = () => api.sendMessage({body:`╭━☆━╮
 🤖☾︎𝗕𝗢𝗧 𝗡𝗔𝗠𝗘☽︎🤖 ${global.config.BOTNAME}
 ══════════════════
 
-🔥𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 シ︎🔥☞︎︎︎☜︎︎︎✰ ℤ𝔸̃𝕀̨ℕ̃ ℙℝ𝕀̨ℕ̃ℂ̧𝔼́💔🥀
+🔥𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 シ︎🔥☞︎︎︎☜︎︎︎✰ 𝐀𝐋𝐈𝐒𝐇𝐀 𝐑𝐀𝐍𝐈💔🥀
 ══════════════════
 
 🫰♕︎B̸O̸T̸ A̸D̸M̸I̸N̸ F̸A̸C̸E̸B̸O̸O̸K̸ A̸C̸C̸O̸U̸N̸T̸ L̸I̸N̸K̸ ♕︎🫰https://www.facebook.com/profile.php?id=61566479789589💞🕊️
 ══════════════════
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉@Zainijutt7 😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉@Alisharani1122 😇
 ══════════════════
 ♥︎═════•❁❀❁•═════♥︎
 
 🌸𝔹𝕆𝕋 ℙℝ𝔼𝔽𝕀𝕏 🌸☞︎︎︎.☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎︎ᘔᗩIᑎ ᒍᑌTT☜︎︎︎✰ 
+♥️𝔹𝕆𝕋 𝕆𝕎ℕ𝔼ℝ♥️ ☞︎︎︎𝐴𝑙𝑖𝑠𝒉𝑎 𝑟𝑎𝑛𝑖☜︎︎︎✰ 
 ❤︎═════•❁❀❁•═════❤︎
 
 ☞︎︎︎𝚄𝙿 𝚃𝙸𝙼𝙴 ☘︎⏳☘︎☜︎︎︎
@@ -61,7 +61,7 @@ ${hours}:${minutes}:${seconds}.
 
 🎀💞•••𝗛𝗲𝗿𝗲 𝗜𝘀 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲•••💖🌷
 ╔═══❖•ೋ° °ೋ•❖═══╗
-✨❤️‍🔥 𝒁𝑨𝑰𝑵 𝑱𝑼𝑻𝑻 ❤️‍🔥✨
+✨❤️‍🔥 𝑨𝑳𝑰𝑺𝑯𝑨 𝑹𝑨𝑵𝑰 ❤️‍🔥✨
 ╚═══❖•ೋ° °ೋ•❖═══╝
 
 
