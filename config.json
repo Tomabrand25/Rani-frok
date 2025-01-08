@@ -24,14 +24,14 @@
     ],
     "NDH": [
         "",
-        "100095704801667"
+        "61559716922704"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "ZAIN-RDX.json",
+    "APPSTATEPATH": "SHAAN-SK.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
