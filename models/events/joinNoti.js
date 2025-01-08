@@ -80,7 +80,7 @@ AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SA
 ⟦🕊️⟦──🎀🧸💖🧸🎀──❀💞⟧  
 🍒🌟✧🪼𝐀𝐋𝐈𝐒𝐇𝐀 𝐗 𝐑𝐎𝐎𝐇𝐀𝐁🪽🌸✧  
 ⟧🕊️⟧──🎀🧸💖🧸🎀──❀💞⟧
-`, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
     }
     else {
         try {
