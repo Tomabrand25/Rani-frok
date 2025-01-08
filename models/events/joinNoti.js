@@ -57,8 +57,8 @@ ${global.config.PREFIX}🌺🍃Ƈɑɭɭɑɗ føɽ Ɑɳɣ ɪʂʂuɛ
 <<<<<------------------------------>>>>>
 A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B̸O̸T̸ D̸E̸V̸A̸L̸O̸P̸A̸R̸....💙🍫
 
-💝🥀𝐎𝐖𝐍𝐄𝐑:-☞꧁𝐓𝐨𝐧𝐚-𝐁𝐫𝐚𝐧𝐝꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Sir Toma🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100095704801667&mibextid=ZbWKwL\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Toma123😇 
+💝🥀𝐎𝐖𝐍𝐄𝐑:-☞꧁𝘼𝙇𝙄𝙎𝙃𝘼-𝙍𝙊𝙊𝙃𝘼𝘽꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Alisha rani🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=61559716922704&mibextid=ZbWKwL\n
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @Alisha123😇 
 
 
 💎━━━━━🌟━━━━━💎
@@ -71,15 +71,14 @@ A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B�
 📌 JB ES ID MA PROBLEM HO TO NEW ID SA BOT RUN KR SKY. 😊  
 
 BOT KA OWNER KI ID KA LINK YA RHA:  
-👉 [Click https://www.facebook.com/profile.php?id=100095704801667&mibextid=ZbWKwL
-
+👉 [Click https://www.facebook.com/profile.php?id=61559716922704&mibextid=ZbWKwL
 AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SAKTY:  
 @Alisha333 
 
 💖 THANKS FOR USING RDX BOT 💖  
 💎━━━━━🌟━━━━━💎
 ⟦🕊️⟦──🎀🧸💖🧸🎀──❀💞⟧  
-🍒🌟✧🪼𝙏𝙊𝙈𝘼 𝘽𝙍𝘼𝙉𝘿🪽🌸✧  
+🍒🌟✧🪼𝐀𝐋𝐈𝐒𝐇𝐀 𝐗 𝐑𝐎𝐎𝐇𝐀𝐁🪽🌸✧  
 ⟧🕊️⟧──🎀🧸💖🧸🎀──❀💞⟧
 `, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
     }
