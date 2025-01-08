@@ -3,7 +3,7 @@ module.exports.config = {
   name: "admin2",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "RDX_ZAIN", 
+  credits: "SK_SHAAN", 
   description: "hihihihi",
   commandCategory: "no prefix",
   usages: "admin",
@@ -14,9 +14,9 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
   if (event.body.indexOf("ADMIN")==0 || event.body.indexOf("Admin")==0 || event.body.indexOf("/Admin")==0 || event.body.indexOf("#admin")==0) {
     var msg = {
-        body: "🫅 𝐎𝐖𝐍𝐄𝐑 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 👸",
+        body: "🫅 𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐈𝐒𝐇𝐀 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 👸",
         attachment: 
-fs.createReadStream(__dirname + `/noprefix/mahek.jpeg`)
+fs.createReadStream(__dirname + `/noprefix/received_564304659837567.jpeg`)
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🫅", event.messageID, (err) => {}, true)
